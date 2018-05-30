@@ -1,0 +1,3 @@
+[submodule "centos-nginx"]
+	path = centos-nginx
+	url = git@github.com:sayuthisobri/centos-nginx.git
